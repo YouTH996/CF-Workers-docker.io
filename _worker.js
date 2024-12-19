@@ -1,4 +1,4 @@
-#import HTML from './docker.html';
+//import HTML from './docker.html';
 
 export default {
   async fetch(request) {
